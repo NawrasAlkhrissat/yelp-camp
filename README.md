@@ -4,12 +4,6 @@ YelpCamp is a full-stack web application that allows users to browse, create, up
 
 ---
 
-## 🌐 Live Demo
-
-> 🔗 **[Coming Soon]** – (You can add a link here once deployed on Render, Vercel, or similar)
-
----
-
 ## 📌 Features
 
 - 🌍 Browse a collection of user-submitted campgrounds
@@ -44,5 +38,3 @@ YelpCamp is a full-stack web application that allows users to browse, create, up
 - Custom CSS
 
 ---
-
-## 📁 Project Structure
